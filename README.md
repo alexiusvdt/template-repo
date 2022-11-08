@@ -20,6 +20,18 @@
 ## Description
  keep it brief!
 
+
+## Setup/Installation Requirements
+
+* Clone this repo & navigate to the root directory
+* install all packages with $npm install
+* build the project using $npm run build
+* lint js files in src with $npm run lint
+* start a dev server with $npm run start
+* run tests with Jest using $npm run test
+
+
+
 ## Known Bugs
 
 * If you find additional bugs not listed here, please email me at alex.johnson293@gmail.com with the subject **[_Repo Name_] Bug** and include:
@@ -31,6 +43,7 @@
 
 
 ## Future implementations
+
 
 ## License
 MIT License
