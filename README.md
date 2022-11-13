@@ -9,12 +9,9 @@
 * HTML
 * CSS
 * JavaScript
-* npm
+* Node.js
 * bootstrap
-* webpack
-* eslint
 * jest
-* babel
 *  [add more as they come!]
 
 ## Description
