@@ -21,13 +21,14 @@
 ## Setup/Installation Requirements
 
 * Clone this repo & navigate to the root directory
+* open a command line prompt
 * install all packages with $npm install
 * build the project using $npm run build
-* lint js files in src with $npm run lint
-* start a dev server with $npm run start
+* start a live server with $npm run start
+
+dev note:
+* lint js files in src with $npm run lint (after writing more code)
 * run tests with Jest using $npm run test
-
-
 
 ## Known Bugs
 
